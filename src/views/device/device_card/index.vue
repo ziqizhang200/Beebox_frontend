@@ -50,7 +50,7 @@
 <script setup lang="ts">
 import { onMounted, computed } from 'vue'
 import { useDeviceCharts } from './index'
-import { generateMockData } from './mockData'
+import { generateMockData } from '@/utils/mockData'
 import VChart from 'vue-echarts'
 import { use } from 'echarts/core'
 import devicesList from '@/assets/devices.json'
