@@ -1,4 +1,9 @@
 ## Beebox Frontend
+this is a vue3 Project
+## Status
+waiting for backend&cloud api
+
+
 ## Project Setup
 
 ```sh
